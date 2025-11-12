@@ -1,0 +1,18 @@
+{
+  "full_batch": {
+    "docs": 100,
+    "tokens_per_doc": 109,
+    "total_tokens": 10900,
+    "batch_time_sec": 21.95,
+    "time_per_doc_sec": 0.2195
+  },
+  "rare_first_batch": {
+    "docs": 100,
+    "input_tokens_per_doc": 9,
+    "total_tokens": 900,
+    "batch_time_sec": 2.254,
+    "time_per_doc_sec": 0.0225
+  },
+  "speedup": 9.7,
+  "compute_saved_percent": 91.7
+}
